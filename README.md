@@ -9,5 +9,5 @@ The use of scNAT to integrate scRNA-seq and scTCR-seq data allows for a more com
 ### Installation
 
 ```
-pip install scNAT
+pip install -i https://test.pypi.org/simple/ scNAT-biqing-zhu
 ```
